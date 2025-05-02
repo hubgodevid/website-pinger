@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send HTTP Request
-        run: curl -s https://hubgo.in/
+        run: curl -s https://hubgobackend-new.onrender.com
